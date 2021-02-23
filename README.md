@@ -1,1 +1,1 @@
-pts_genap
+#wpu_resolution
