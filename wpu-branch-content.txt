@@ -1,0 +1,4 @@
+Rencana
+- Membuat Branch
+- bisa menggunakan Ghitub
+- dll
