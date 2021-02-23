@@ -1,4 +1,5 @@
 Rencana
 - Membuat Branch
 - bisa menggunakan Ghitub
-- dll
+- belajar dengan semangat
+dll
